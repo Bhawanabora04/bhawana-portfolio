@@ -637,7 +637,7 @@ function App() {
           </p>
 
           <a
-            href="/Bhawana_Bora_Resume.pdf"
+            href="/Bhawana_Bora_Tech.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="outline-button"
